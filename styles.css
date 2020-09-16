@@ -358,6 +358,32 @@ li {
 }
 
 
+/* Carousel
+      ============================== */
+
+.carousel-img {
+  width: 160px;
+  height: 160px;
+}
+
+img.p-arrow-icon,
+img.n-arrow-icon {
+  width: 29.04px;
+  height: 62.67px;
+}
+
+.carousel__section .font-italic {
+  font-size: 22px;
+  line-height: 34px;
+  max-width: 730px;
+}
+
+.carousel__section .font-weight-bold {
+  font-size: 22px;
+  line-height: 34px;
+}
+
+
 
 
 
