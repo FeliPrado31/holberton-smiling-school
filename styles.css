@@ -385,6 +385,57 @@ img.n-arrow-icon {
 
 
 
+/* Carousel videos
+      ============================== */
+
+.icon__size {
+  width: 64px;
+  height: 64px;
+}
+
+.carousel__time {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 27px;
+}
+
+.carousel__user {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 27px;
+}
+
+.carousel__user__img {
+  width: 30px;
+}
+
+.card {
+  border: none;
+}
+
+
+/* Free membership
+      ============================== */
+
+.free__img {
+  width: 45px;
+}
+
+.free__title {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.free__paragraph {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 26px;
+}
 
 
 /* media
