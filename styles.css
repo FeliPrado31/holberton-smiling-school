@@ -242,7 +242,7 @@ body {
   mix-blend-mode: soft-light;
 }
 
-.opt {
+.opacity {
   opacity: 0.5;
 }
 
@@ -315,7 +315,7 @@ li {
 }
 
 
-/* top hero
+/* top hero home page
       ============================== */
 
 .header__image {
@@ -324,6 +324,36 @@ li {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+/* top hero pricing
+      ============================== */
+
+.header__image_pr {
+  background: url("images/pic_2.jpg") center center no-repeat;
+  background-size: cover;
+  width: 100%;
+  min-height: 1093px;
+  position: relative;
+}
+
+.header_title {
+  font-size: 60px;
+}
+
+.header__logo {
+  width: 37px;
+  height: 30px;
+}
+
+.header__content {
+  top: 23%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.header__table_price {
+  font-size: 44px;
 }
 
 
